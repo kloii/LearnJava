@@ -16,9 +16,9 @@ public class TestLearnArray {
 //        int[] myIntArray = myMinElement.readIntegers(5);
 //        System.out.println("The min element of the array is: " + myMinElement.findMin(myIntArray));
 
-//        ReverseArray myReverseArray = new ReverseArray();
-//        int[] myIntArray = ReverseArray.readIntegers(4);
-//        myReverseArray.reverse(myIntArray);
+        ReverseArray myReverseArray = new ReverseArray();
+        int[] myIntArray = ReverseArray.readIntegers(4);
+        myReverseArray.reverse(myIntArray);
 
 
     }
