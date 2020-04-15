@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34539a59-468e-4f7d-ba07-08270eb7dab6" name="Default Changelist" comment="" />
+    <list default="true" id="34539a59-468e-4f7d-ba07-08270eb7dab6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/inc/kaloe/TestLearnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/inc/kaloe/TestLearnArray.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +24,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1a3kEzhrddTv40R7IvKtkcXKllz" />
   <component name="ProjectViewState">
@@ -165,10 +171,10 @@
       <screen x="0" y="23" width="1680" height="947" />
     </state>
     <state x="341" y="135" key="SettingsEditor/0.23.1680.947@0.23.1680.947" timestamp="1586121024624" />
-    <state x="494" y="331" key="com.intellij.ide.util.TipDialog" timestamp="1586271407137">
+    <state x="494" y="331" key="com.intellij.ide.util.TipDialog" timestamp="1586971896230">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
-    <state x="494" y="331" key="com.intellij.ide.util.TipDialog/0.23.1680.947@0.23.1680.947" timestamp="1586271407137" />
+    <state x="494" y="331" key="com.intellij.ide.util.TipDialog/0.23.1680.947@0.23.1680.947" timestamp="1586971896230" />
     <state x="505" y="230" width="670" height="676" key="search.everywhere.popup" timestamp="1586732635956">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
@@ -184,11 +190,6 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/inc/kaloe/ReverseArray.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
